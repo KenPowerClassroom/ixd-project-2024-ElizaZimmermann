@@ -11,4 +11,20 @@ body
     min-width: 200px;
     background-color: bisque; 
 }
+#comp
+{
+    max-width: 200px;
+    min-width: 200px;
+    background-color: rgb(206, 206, 206);
+}
+#kahoot
+{
+    max-width: 200px;
+    min-width: 200px;
+    background-color: rgb(179, 179, 179);
+}
+#scores
+{
+    background-color: rgb(219, 198, 191);
+}
 /* comments */
