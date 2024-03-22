@@ -15,16 +15,46 @@ body
 {
     max-width: 200px;
     min-width: 200px;
-    background-color: rgb(206, 206, 206);
+background-color: rgb(202, 219, 233);
+}
+#compH
+{
+    background-color: rgb(219, 198, 191);
 }
 #kahoot
 {
     max-width: 200px;
-    min-width: 200px;
-    background-color: rgb(179, 179, 179);
+    min-width: 300px;
+background-color: chartreuse;
+}
+
+#spark
+{
+    max-width: 200px;
+    min-width: 300px;
+   
+}
+#brain
+{
+    max-width: 200px;
+    min-width: 300px;
+  
 }
 #scores
 {
     background-color: rgb(219, 198, 191);
 }
+#good
+{
+    background-color: chartreuse;
+}
+#halfgood
+{
+    background-color: gold;
+}
+#bad
+{
+    background-color: rgb(235, 74, 74);
+}
+
 /* comments */
